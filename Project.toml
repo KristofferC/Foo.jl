@@ -1,0 +1,9 @@
+authors = ["Kristoffer Carlsson <kcarlsson89@gmail.com>"]
+name = "Foo"
+uuid = "68399918-8510-11e8-0da7-c1d4ef240751"
+version = "0.1.0"
+
+[deps]
+
+[compat]
+julia = "0.7"
